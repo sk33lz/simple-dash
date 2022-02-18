@@ -4,17 +4,23 @@
 		{
 			"alt" : "Github",
 			"icon" : "fab fa-github",
-			"link" : "https://github.com/kutyla-philipp"
+			"link" : "https://github.com/sk33lz"
 		},
 		{
 			"alt" : "Twitter",
 			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/Kukielka_"
+			"link" : "https://twitter.com/explore/trending"
 		},
 		{
-			"alt" : "Docker Hub",
-			"icon" : "fab fa-docker",
-			"link" : "https://hub.docker.com/u/kukielka/"
-		}
+			"alt" : "Gmail",
+			"icon" : "fab fa-gmail",
+			"link" : "https://mail.google.com/"
+		},
+		{
+			"alt" : "YouTube",
+			"icon" : "fab fa-youtube",
+			"link" : "https://www.youtube.com/"
+		},
 	]
 }
+
